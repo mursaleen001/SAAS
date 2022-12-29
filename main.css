@@ -1,0 +1,27 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  margin-top: 10%;
+  background-color: rgb(119, 119, 158);
+}
+
+.html {
+  font-size: 62.5%;
+}
+
+.main_header h1 {
+  text-align: center;
+  font-style: italic;
+  font-size: 5rem;
+}
+.main_header h1:hover {
+  background-color: black;
+}
+.main_header p {
+  text-align: center;
+  font-style: italic;
+  font-size: 3rem;
+}
+.main_header p:hover {
+  background-color: black;
+}/*# sourceMappingURL=main.css.map */
